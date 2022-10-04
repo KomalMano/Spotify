@@ -1,3 +1,13 @@
+# Output
+
+![spotify4](https://user-images.githubusercontent.com/56540613/193751485-5c0fd148-cb8f-4cbf-8745-27a681ff75a5.PNG)
+
+![spotify1](https://user-images.githubusercontent.com/56540613/193751508-88d546c7-f7ee-46e6-b1b7-3186c6eed970.PNG)
+
+![spotify2](https://user-images.githubusercontent.com/56540613/193751527-a11cf7ff-ff31-45ed-8e9a-fe219ce78847.PNG)
+
+![spotify3](https://user-images.githubusercontent.com/56540613/193751549-ebf3e3bd-7e26-45e8-8bd3-ed7605a5b497.PNG)
+
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
